@@ -31,7 +31,7 @@ Please [see the Hasura documentation][7] on how logs from Hasura are made availa
 
 ### Metrics
 
-Please [see the Hasura documentation][8] on how metrics from Hasura are made available in Datadog
+Please [see the Hasura documentation][8] on how metrics from Hasura are made available in Datadog.
 See [metadata.csv][4] for a list of metrics provided by this integration.
 
 ### Traces
